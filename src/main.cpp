@@ -5,7 +5,7 @@
 #include "PID.h"
 #include <math.h>
 
-#define DEBUG 0
+#define DEBUG 1
 #define TARGET_SPEED 32.
 
 using namespace std;
